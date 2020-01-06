@@ -1,0 +1,1 @@
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName/Build/Intermediates/ArchiveIntermediates/ThinkAName/InstallationBuildProductsLocation/Applications/ThinkAName.app

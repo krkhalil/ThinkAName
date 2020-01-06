@@ -1,0 +1,240 @@
+BCSymbolMap Version: 2.0
+-[S1VC viewDidLoad]
+-[S1VC viewWillAppear:]
+-[S1VC r1:]
+-[S1VC r2:]
+-[S1VC r3:]
+-[S1VC r4:]
+-[S1VC r5:]
+-[S1VC r6:]
+-[S1VC ShowAlert:]
+___18-[S1VC ShowAlert:]_block_invoke
+___18-[S1VC ShowAlert:]_block_invoke_2
+___copy_helper_block_
+___destroy_helper_block_
+-[S1VC topLabel]
+-[S1VC setTopLabel:]
+-[S1VC nameCount]
+-[S1VC setNameCount:]
+-[S1VC .cxx_destruct]
+_OBJC_CLASS_$_S1VC
+_OBJC_IVAR_$_S1VC.array
+_OBJC_IVAR_$_S1VC.count
+_OBJC_IVAR_$_S1VC._topLabel
+_OBJC_IVAR_$_S1VC._nameCount
+___block_descriptor_tmp
+___block_literal_global
+___block_descriptor_tmp.80
+_OBJC_METACLASS_$_S1VC
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName/ThinkAName/S1VC.m
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName/ThinkAName/S1VC.h
+__destroy_helper_block_
+__copy_helper_block_
+__18-[S1VC ShowAlert:]_block_invoke_2
+__18-[S1VC ShowAlert:]_block_invoke
+NSMakeRange
+/Users/Macbook/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+-[S2VC viewDidLoad]
+-[S2VC viewWillAppear:]
+-[S2VC r1:]
+-[S2VC r2:]
+-[S2VC r3:]
+-[S2VC r4:]
+-[S2VC r5:]
+-[S2VC setStackView]
+-[S2VC setcol1]
+-[S2VC setcol2]
+-[S2VC setcol3]
+-[S2VC setcol4]
+-[S2VC setcol5]
+-[S2VC setcol6]
+-[S2VC setColumnsNumber]
+-[S2VC ShowAlert:]
+___18-[S2VC ShowAlert:]_block_invoke
+___18-[S2VC ShowAlert:]_block_invoke_2
+-[S2VC nameCount]
+-[S2VC setNameCount:]
+-[S2VC arrayAnswer]
+-[S2VC setArrayAnswer:]
+-[S2VC topLabel]
+-[S2VC setTopLabel:]
+-[S2VC c1]
+-[S2VC setC1:]
+-[S2VC c2]
+-[S2VC setC2:]
+-[S2VC c3]
+-[S2VC setC3:]
+-[S2VC c4]
+-[S2VC setC4:]
+-[S2VC c5]
+-[S2VC setC5:]
+-[S2VC c6]
+-[S2VC setC6:]
+-[S2VC r11]
+-[S2VC setR11:]
+-[S2VC r21]
+-[S2VC setR21:]
+-[S2VC r31]
+-[S2VC setR31:]
+-[S2VC r41]
+-[S2VC setR41:]
+-[S2VC r51]
+-[S2VC setR51:]
+-[S2VC r12]
+-[S2VC setR12:]
+-[S2VC r22]
+-[S2VC setR22:]
+-[S2VC r32]
+-[S2VC setR32:]
+-[S2VC r42]
+-[S2VC setR42:]
+-[S2VC r52]
+-[S2VC setR52:]
+-[S2VC r13]
+-[S2VC setR13:]
+-[S2VC r23]
+-[S2VC setR23:]
+-[S2VC r33]
+-[S2VC setR33:]
+-[S2VC r43]
+-[S2VC setR43:]
+-[S2VC r53]
+-[S2VC setR53:]
+-[S2VC r14]
+-[S2VC setR14:]
+-[S2VC r24]
+-[S2VC setR24:]
+-[S2VC r34]
+-[S2VC setR34:]
+-[S2VC r44]
+-[S2VC setR44:]
+-[S2VC r54]
+-[S2VC setR54:]
+-[S2VC r15]
+-[S2VC setR15:]
+-[S2VC r25]
+-[S2VC setR25:]
+-[S2VC r35]
+-[S2VC setR35:]
+-[S2VC r45]
+-[S2VC setR45:]
+-[S2VC r55]
+-[S2VC setR55:]
+-[S2VC r16]
+-[S2VC setR16:]
+-[S2VC r26]
+-[S2VC setR26:]
+-[S2VC r36]
+-[S2VC setR36:]
+-[S2VC r46]
+-[S2VC setR46:]
+-[S2VC r56]
+-[S2VC setR56:]
+-[S2VC .cxx_destruct]
+_OBJC_CLASS_$_S2VC
+_OBJC_IVAR_$_S2VC.count
+_OBJC_IVAR_$_S2VC.array
+_OBJC_IVAR_$_S2VC.answer
+_OBJC_IVAR_$_S2VC._r11
+_OBJC_IVAR_$_S2VC._r12
+_OBJC_IVAR_$_S2VC._r13
+_OBJC_IVAR_$_S2VC._r14
+_OBJC_IVAR_$_S2VC._r15
+_OBJC_IVAR_$_S2VC._r16
+_OBJC_IVAR_$_S2VC._nameCount
+_OBJC_IVAR_$_S2VC._topLabel
+_OBJC_IVAR_$_S2VC._r21
+_OBJC_IVAR_$_S2VC._r22
+_OBJC_IVAR_$_S2VC._r23
+_OBJC_IVAR_$_S2VC._r24
+_OBJC_IVAR_$_S2VC._r25
+_OBJC_IVAR_$_S2VC._r26
+_OBJC_IVAR_$_S2VC._r31
+_OBJC_IVAR_$_S2VC._r32
+_OBJC_IVAR_$_S2VC._r33
+_OBJC_IVAR_$_S2VC._r34
+_OBJC_IVAR_$_S2VC._r35
+_OBJC_IVAR_$_S2VC._r36
+_OBJC_IVAR_$_S2VC._r41
+_OBJC_IVAR_$_S2VC._r42
+_OBJC_IVAR_$_S2VC._r43
+_OBJC_IVAR_$_S2VC._r44
+_OBJC_IVAR_$_S2VC._r45
+_OBJC_IVAR_$_S2VC._r46
+_OBJC_IVAR_$_S2VC._r51
+_OBJC_IVAR_$_S2VC._r52
+_OBJC_IVAR_$_S2VC._r53
+_OBJC_IVAR_$_S2VC._r54
+_OBJC_IVAR_$_S2VC._r55
+_OBJC_IVAR_$_S2VC._r56
+_OBJC_IVAR_$_S2VC._arrayAnswer
+_OBJC_IVAR_$_S2VC._c1
+_OBJC_IVAR_$_S2VC._c2
+_OBJC_IVAR_$_S2VC._c3
+_OBJC_IVAR_$_S2VC._c4
+_OBJC_IVAR_$_S2VC._c5
+_OBJC_IVAR_$_S2VC._c6
+___block_descriptor_tmp.154
+_OBJC_METACLASS_$_S2VC
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName/ThinkAName/S2VC.m
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName/ThinkAName/S2VC.h
+__18-[S2VC ShowAlert:]_block_invoke_2
+__18-[S2VC ShowAlert:]_block_invoke
+-[ViewController viewDidLoad]
+-[ViewController viewWillAppear:]
+-[ViewController playButtonTouched:]
+_OBJC_CLASS_$_ViewController
+_OBJC_METACLASS_$_ViewController
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName/ThinkAName/ViewController.m
+_OBJC_CLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName/ThinkAName/main.m
+main
+-[FinishVC viewDidLoad]
+-[FinishVC timerLabel:]
+-[FinishVC playAgainButtonTouched:]
+-[FinishVC answer]
+-[FinishVC setAnswer:]
+-[FinishVC topLabel]
+-[FinishVC setTopLabel:]
+-[FinishVC answerLabel]
+-[FinishVC setAnswerLabel:]
+-[FinishVC playAgainButton]
+-[FinishVC setPlayAgainButton:]
+-[FinishVC .cxx_destruct]
+_OBJC_CLASS_$_FinishVC
+_OBJC_IVAR_$_FinishVC._playAgainButton
+_OBJC_IVAR_$_FinishVC._answer
+_OBJC_IVAR_$_FinishVC._answerLabel
+_OBJC_IVAR_$_FinishVC._topLabel
+_OBJC_IVAR_$_FinishVC.timer
+_OBJC_IVAR_$_FinishVC.t
+_OBJC_METACLASS_$_FinishVC
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName/ThinkAName/FinishVC.m
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName/ThinkAName/FinishVC.h
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName/ThinkAName/AppDelegate.m
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName/ThinkAName/AppDelegate.h
+-[CharNameVC viewDidLoad]
+-[CharNameVC three:]
+-[CharNameVC four:]
+-[CharNameVC five:]
+-[CharNameVC six:]
+_OBJC_CLASS_$_CharNameVC
+_OBJC_METACLASS_$_CharNameVC
+/Users/Macbook/Desktop/60 Dollars Apps/ThinkAName/ThinkAName/CharNameVC.m
